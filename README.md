@@ -19,4 +19,4 @@ The Sakila sample database was initially developed by Mike Hillyer, a former mem
 Load the Salika dataset. Then run the SQL code in PostgreSQL.
 
 ### Credits
-The above used data and project template of this project are provided by the course of Udacity "Programming for Data Science with Python": https://www.udacity.com/course/programming-for-data-science-nanodegree--nd
+The project template of this project is provided by the course of Udacity "Programming for Data Science with Python": https://www.udacity.com/course/programming-for-data-science-nanodegree--nd
