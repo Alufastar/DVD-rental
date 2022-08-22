@@ -166,8 +166,6 @@ ON firtd.rental_id = firtr.rental_id
 WHERE date_index>=DATE_TRUNC('day',rental_date) AND date_index<=DATE_TRUNC('day',return_date)
 ORDER BY pop_rank;
 
--- calendar visualization is done in Excel
-
 
 
 
